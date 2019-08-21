@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pastor_LabComunicacion</string>
+    <string name="name">Entry the phrase</string>
+    <string name="namedos">Ingrese la segunda palabra</string>
+    <string name="greetings">Process</string>
+</resources>
